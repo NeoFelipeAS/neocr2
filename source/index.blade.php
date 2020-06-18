@@ -123,10 +123,10 @@
                 <hr class="new">
                 <h3 class="text-center my-5">LANGUAGE EDUCATION</h3>
         		<div class="row text-center">
-        			<div class="col">
+        			<div class="col-md">
         				<h3>Spanish</h3>
         			</div>
-        			<div class="col">
+        			<div class="col-md">
         				<h3>English</h3>
         			</div>
         		</div>
