@@ -4,14 +4,12 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
+        'title' => 'My website',
+        'description' => 'Personal page of Felipe Alvarado S.',
         'image' => 'default-share.png',
     ],
     'owner' => [
-        'name' => 'John Doe',
-        'twitter' => 'johndoe',
-        'github' => 'johndoe',
+        'name' => 'Felipe Alvarado S',
     ],
     'services' => [
         'cmsVersion' => '2.10.49',
@@ -19,8 +17,8 @@ return [
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
+            'cloudName' => 'dxzfyy1fb',
+            'apiKey' => '453259446748744',
         ],
     ],
     'collections' => [
