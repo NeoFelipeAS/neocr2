@@ -141,7 +141,7 @@
 				<div class="col-lg-8 content my-5">
                 <div class="card text-white bg-primary mb-3">
                         <div class="card-header">
-                            <h5 class="card-title text-center">Cover letter</h5>
+                            <h5 class="card-title text-center my-2">Cover letter</h5>
                         </div>
                         <div class="card-body">
                             <p class="text-justify">Currently working for a big tech company I do my work to the best of my abilities, learning from my peers and with the motivation to provide value and live the company values.</p>
