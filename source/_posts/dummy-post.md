@@ -1,12 +1,13 @@
 ---
-title: '01 - Dummy Post'
-date: 2019-04-30
+title: 01 - Emilio Rocks!
+date: 2019-04-30T00:00:00.000Z
 tags:
   - css
   - javascript
   - php
   - laravel
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
+comments: true
 ---
 ## Heading 2
 
