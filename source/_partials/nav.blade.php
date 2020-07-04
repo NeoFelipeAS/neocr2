@@ -8,25 +8,25 @@
     <div class="collapse navbar-collapse" id="navbarToggler">
         <ul class="navbar-nav mx-auto text-center">
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#main">
                     <i class="fas fa-laptop-code fa-2x"></i>
                     <p>Software Developer <span class="sr-only">(current)</span></p>
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#skills">
                     <i class="far fa-id-card fa-2x"></i>
                     <p>SKILLS</p>
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#languages">
                     <i class="fas fa-globe-americas fa-2x"></i>
                     <p>Language education</p>
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">
+                <a class="nav-link" href="#cover-letter">
                     <i class="fas fa-envelope-open-text fa-2x"></i>
                     <p>Cover letter</p>
                 </a>
@@ -49,7 +49,7 @@
                 </a>
             </li>
             <!-- <li class="nav-item mx-md-4 my-auto">
-                <a class="btn btn-secondary" href="#">
+                <a class="btn btn-secondary" href="/es">
                     Spanish
                 </a>
             </li> -->

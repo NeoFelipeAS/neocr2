@@ -13,12 +13,12 @@
     <div class="container">
         <div class="row my-5">
             <div class="col">
-                <div class="row mt-2" id="main">
+                <div class="row mt-2">
                     <div class="col-lg-7 content order-lg-1 order-2 text-justify">
                         <h3 class="text-center my-4">Software developer</h3>
                         <p>Hello my name is Felipe Alvarado Solano I believe in magic, I care about how my actions affect others and I want to have a meaningful existence.</p>
                         <p>I love software development and consider it one of the many ways I can contribute in this world creating something useful and well done. I love information technologies and how they interact.</p>
-                        <p>Currently living in my hometown in Costa Rica. This website is a portfolio and a documentation of my journey as a developer.</p>
+                        <p>Currently living in my hometown in Costa Rica I made this website in order to advance my skills and create something I can grow into a full portfolio and a documentation of my journey as a developer.</p>
                     </div>
                     <div class="col-lg-5 background order-lg-2 order-1 mb-5">
                         <figure><img src="/assets/img/main.jpg" class="img-fluid rounded mx-auto d-block img-hover" /></figure>
@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <div class="row my-5" id="skills">
+        <div class="row my-5">
             <div class="col">
 				<h3 class="text-center my-5">Skills</h3>
                 <div class="accordion" id="accordionSkills">
@@ -39,7 +39,7 @@
                             </h2>
                         </div>
                         <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">Work as a team to achieve specific goals, the primary challenge of project management is to achieve all of the project goals within the given constraints.</p>
                                 <p class="text-justify">The object of project management is to produce a complete project which complies with the client's objectives. In many cases the object of project management is also to shape or reform the client's brief in order to feasibly be able to address the client's objectives.</p>
                             </div>
@@ -54,7 +54,7 @@
                             </h2>
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms. Just as software engineering (as a process) is defined by differing methodologies, so the programming languages (as models of computation) are defined by differing paradigms.</p>
                             </div>
                         </div>
@@ -68,7 +68,7 @@
                             </h2>
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">A digital database based on the relational model of data, as proposed by E. F. Codd in 1970. A database is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.</p>
                             </div>
                         </div>
@@ -82,7 +82,7 @@
                             </h2>
                         </div>
                         <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">User interface design (UI) or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience. User interface design has been a topic of considerable research, including on its aesthetics.</p>
                             </div>
                         </div>
@@ -96,7 +96,7 @@
                             </h2>
                         </div>
                         <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">Customer service is the provision of service to customers before, during and after a purchase. From the point of view of an overall sales process engineering effort, customer service plays an important role in an organization's ability to generate income and revenue. From that perspective, customer service should be included as part of an overall approach to systematic improvement.</p>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                             </h2>
                         </div>
                         <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionSkills">
-                            <div class="card-body bg-danger">
+                            <div class="card-body bg-dark">
                                 <p class="text-justify">DevOps, with its pursuit of continuous application updates, is revolutionizing the way organizations approach software development. Doing so allows to keep up with business demands. Those who over-automate typically focus on the tools more than the processes.</p>
                             </div>
                         </div>
@@ -118,7 +118,7 @@
                 </div>
             </div>
         </div>
-        <div class="row" id="languages">
+        <div class="row">
         	<div class="col-md-12">
                 <hr class="new">
                 <h3 class="text-center my-5">LANGUAGE EDUCATION</h3>
@@ -137,7 +137,7 @@
                 </div>
                 <hr class="new">
         	</div>
-			<div class="row" id="cover-letter">
+			<div class="row">
 				<div class="col-lg-8 content my-5">
                 <div class="card text-white bg-primary mb-3">
                         <div class="card-header">
