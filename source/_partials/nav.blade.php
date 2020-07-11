@@ -54,11 +54,11 @@
                     <i class="fab fa-instagram fa-2x"></i>
                 </a>
             </li>
-            <!-- <li class="nav-item mx-md-4 my-auto">
+            <li class="nav-item mx-md-4 my-auto">
                 <a class="btn btn-secondary" href="/es">
                     Spanish
                 </a>
-            </li> -->
+            </li>
         </ul>
     </div>
 </nav>

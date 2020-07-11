@@ -161,15 +161,18 @@
 			</div>
 		</div>
         <div class="row" id="inspirational-quote">
-        	<div class="col-md-12">
+        	<div class="col">
                 <hr class="new">
                 <h3 class="text-center my-5">Quote</h3>
                 <blockquote class="blockquote text-center">
-                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
-                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                    <p class="mb-0">“You are a little soul, carrying around a corpse.”</p>
+                    <footer class="blockquote-footer"> - <cite title="Source Title">Epictetus</cite></footer>
+                    <button class="btn btn-secondary my-4">Get random quote <i class="fas fa-book"></i></button>
                 </blockquote>
-                <hr class="new">
         	</div>
         </div>
     </div>
 @endsection
+@push('head')
+<script src="/assets/js/quotes.js"></script>
+@endpush
