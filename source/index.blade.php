@@ -137,28 +137,39 @@
                 </div>
                 <hr class="new">
         	</div>
-			<div class="row" id="cover-letter">
-				<div class="col-lg-8 content my-5">
+        </div>
+		<div class="row" id="cover-letter">
+			<div class="col-lg-8 content my-5">
                 <div class="card text-white bg-primary mb-3">
-                        <div class="card-header">
-                            <h5 class="card-title text-center my-2">Cover letter</h5>
-                        </div>
-                        <div class="card-body">
-                            <p class="text-justify">Currently working for a big tech company I do my work to the best of my abilities, learning from my peers and with the motivation to provide value and live the company values.</p>
-                            <ul>
-                                <li>Accountability</li>
-                                <li>Collaboration</li>
-                                <li>Transparency</li>
-                                <li>Resilience</li>
-                                <li>Respect</li>
-                            </ul>
-                        </div>
+                    <div class="card-header">
+                        <h5 class="card-title text-center my-2">Cover letter</h5>
                     </div>
-				</div>
-				<div class="col-lg-4 background">
-					<img src="/assets/img/thanks.png" class="img-fluid rounded mx-auto d-block" />
-				</div>
+                    <div class="card-body">
+                        <p class="text-justify">Currently working for a big tech company I do my work to the best of my abilities, learning from my peers and with the motivation to provide value and live the company values.</p>
+                        <ul>
+                            <li>Accountability</li>
+                            <li>Collaboration</li>
+                            <li>Transparency</li>
+                            <li>Resilience</li>
+                            <li>Respect</li>
+                        </ul>
+                    </div>
+                </div>
 			</div>
+			<div class="col-lg-4 background">
+				<img src="/assets/img/thanks.png" class="img-fluid rounded mx-auto d-block" />
+			</div>
+		</div>
+        <div class="row" id="inspirational-quote">
+        	<div class="col-md-12">
+                <hr class="new">
+                <h3 class="text-center my-5">Quote</h3>
+                <blockquote class="blockquote text-center">
+                    <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante.</p>
+                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                </blockquote>
+                <hr class="new">
+        	</div>
         </div>
     </div>
 @endsection

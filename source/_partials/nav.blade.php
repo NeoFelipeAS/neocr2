@@ -31,6 +31,12 @@
                     <p>Cover letter</p>
                 </a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#inspirational-quote">
+                    <i class="fas fa-book fa-2x"></i>
+                    <p>Random quote</p>
+                </a>
+            </li>
         </ul>
         <ul class="navbar-nav ml-auto list-inline">
             <li class="nav-item list-inline-item">
