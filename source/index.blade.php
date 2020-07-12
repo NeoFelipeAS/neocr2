@@ -165,10 +165,10 @@
                 <hr class="new">
                 <h3 class="text-center my-5">Quote</h3>
                 <blockquote class="blockquote text-center">
-                    <p class="mb-0">“You are a little soul, carrying around a corpse.”</p>
-                    <footer class="blockquote-footer"> - <cite title="Source Title">Epictetus</cite></footer>
-                    <button class="btn btn-secondary my-4">Get random quote <i class="fas fa-book"></i></button>
+                    <p id="quote" class="mb-0">“You are a little soul, carrying around a corpse.”</p>
+                    <footer class="blockquote-footer"> - <cite id="cite" title="Source Title">Epictetus</cite></footer>
                 </blockquote>
+                <button id="target" class="btn btn-secondary my-4 mx-auto d-block">Get random quote <i class="fas fa-book"></i></button>
         	</div>
         </div>
     </div>
