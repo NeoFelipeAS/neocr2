@@ -1,6 +1,6 @@
 ---
-title: '03 - Google Analytics'
-date: 2020-05-13
+title: 03 - Vinicio nos va a ayudar
+date: 2020-05-13T00:00:00.000Z
 image: https://res.cloudinary.com/artisanstatic/analytics.jpg
 comments: false
 ---
