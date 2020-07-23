@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -7,15 +7,15 @@
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 		<title>
-			Jose Felipe Alvarado Solano
+			José Felipe Alvarado Solano
 		</title>
 		<meta
 			name="name"
-			content="Costa Rica Developer"
+			content="Costa Rica Desarrollador"
 		/>
 		<meta
 			name="description"
-			content="Este es mi sitio Yo lo hice como un testamento viviente de mi camino como desarrollador."
+			content="This is my webpage I created it as a living testament of my developer journey."
 		/>
 
     @include('_partials.head.meta')
@@ -27,7 +27,7 @@
 <body>
     <section>
         <header>
-            @include('_partials.nav')
+            @include('_partials.nav-es')
         </header>
 
         <article>

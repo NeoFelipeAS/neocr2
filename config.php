@@ -2,7 +2,7 @@
 
 return [
     'production' => false,
-    'baseUrl' => 'https://artisanstatic.netlify.app',
+    'baseUrl' => 'https://neocr.netlify.app/',
     'site' => [
         'title' => 'My website',
         'description' => 'Personal page of Felipe Alvarado S.',
@@ -13,7 +13,7 @@ return [
     ],
     'services' => [
         'cmsVersion' => '2.10.49',
-        'analytics' => 'UA-XXXXX-Y',
+        'analytics' => 'UA-135290824-4',
         'disqus' => 'artisanstatic',
         'formcarry' => 'XXXXXXXXXXXX',
         'cloudinary' => [

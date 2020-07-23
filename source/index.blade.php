@@ -55,7 +55,7 @@
                         </div>
                         <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSkills">
                             <div class="card-body bg-danger">
-                                <p class="text-justify">Programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms. Just as software engineering (as a process) is defined by differing methodologies, so the programming languages (as models of computation) are defined by differing paradigms.</p>
+                                <p class="text-justify">The programming paradigms are a way to classify programming languages based on their features. Languages can be classified into multiple paradigms. Just as software engineering (as a process) is defined by differing methodologies, so the programming languages (as models of computation) are defined by differing paradigms.</p>
                             </div>
                         </div>
                     </div>
@@ -166,7 +166,7 @@
                 <h3 class="text-center my-5">Quote</h3>
                 <blockquote class="blockquote text-center">
                     <p id="quote" class="mb-0">“You are a little soul, carrying around a corpse.”</p>
-                    <footer class="blockquote-footer"> - <cite id="cite" title="Source Title">Epictetus</cite></footer>
+                    <footer class="blockquote-footer"> by <cite id="cite" title="Source Title">Epictetus</cite></footer>
                 </blockquote>
                 <button id="target" class="btn btn-secondary my-4 mx-auto d-block">Get random quote <i class="fas fa-book"></i></button>
         	</div>
