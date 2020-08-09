@@ -16,7 +16,7 @@
     <div class="col-md-6">
       <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">Meditation</strong>
+          <strong class="d-inline-block mb-2 text-success">Meditation</strong>
           <h3 class="mb-0">Meditation and wellness</h3>
         </div>
         <div class="col-auto d-none d-lg-block">
@@ -40,7 +40,7 @@
     <div class="col-md-6">
       <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">Technology</strong>
+          <strong class="d-inline-block mb-2 text-success">Technology</strong>
           <h3 class="mb-0">I am a software developer</h3>
         </div>
         <div class="col-auto d-none d-lg-block">
