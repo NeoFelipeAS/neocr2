@@ -1,0 +1,22 @@
+{
+  "short_name": "FAS page",
+  "name": "Felipe Alvarado Solano's page",
+  "description": "Weather forecast information",
+  "icons": [
+    {
+      "src": "/assets/img/icon180.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/logowhite.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#3d000f",
+  "display": "minimal",
+  "scope": "/",
+  "theme_color": "#ff7900"
+}

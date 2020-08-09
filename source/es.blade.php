@@ -167,7 +167,7 @@
                 <h3 class="text-center my-5">Frase</h3>
                 <blockquote class="blockquote text-center">
                     <p id="quote" class="mb-0">“Nunca rompas el silencio si no es para mejorarlo.”</p>
-                    <footer class="blockquote-footer">por <cite id="cite" title="Source Title">Epictetus</cite></footer>
+                    <footer class="blockquote-footer">por <cite id="cite" title="Source Title">Beethoven</cite></footer>
                 </blockquote>
                 <button id="target" class="btn btn-secondary my-4 mx-auto d-block">Obtener una frase aleatoria <i class="fas fa-book"></i></button>
         	</div>

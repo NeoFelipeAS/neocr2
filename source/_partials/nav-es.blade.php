@@ -37,6 +37,12 @@
                     <p>Frase aleatoria</p>
                 </a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/philosophy">
+                    <i class="fa fa-beer fa-2x"></i>
+                    <p>Filosofía</p>
+                </a>
+            </li>
         </ul>
         <ul class="navbar-nav ml-auto list-inline">
             <li class="nav-item list-inline-item">
