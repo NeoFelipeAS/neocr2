@@ -6,6 +6,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
 	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="manifest" href="/manifest.webmanifest">
     <meta name="theme-color" content="#ffffff">
 		<title>
 			Jose Felipe Alvarado Solano
