@@ -7,14 +7,13 @@ use TightenCo\Jigsaw\Jigsaw;
 
 $events->afterBuild(function ($jigsaw) {
     $jigsaw->getFilesystem()->copyDirectory(__DIR__ . '/source/_assets/favicons', $jigsaw->getDestinationPath());
-    $jigsaw->getFilesystem()->copyFile(__DIR__ . '/source/_assets/manifest.webmanifest', $jigsaw->getDestinationPath());
 });
 
-// function media($path)
-// {
-//     $cloudName = $GLOBALS['container']->config['services']['cloudinary']['cloudName'];
-//     return "https://res.cloudinary.com/{$cloudName}/{$path}";
-// }
+function media($path)
+{
+    $cloudName = $GLOBALS['container']->config['services']['cloudinary']['cloudName'];
+    return "https://res.cloudinary.com/{$cloudName}/{$path}";
+}
 
 function content_sanitize($value)
 {
