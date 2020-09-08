@@ -19,6 +19,7 @@
                         <p>Hola mi nombre es Felipe Alvarado Solano Yo creo en la magia, me preocupo como mis acciones afectan a otros y yo quiero tener una existencia significativa.</p>
                         <p>Yo amo el desarrollo de software y considero esto como una de las muchas maneras en que puedo contribuir en este mundo creando algo útil y bien hecho. Yo amo las tecnologias de la informacion y como ellas interactúan.</p>
                         <p>Actualmente vivo en mi pueblo en Costa Rica. Este sitio web es un portafolio y una documentación de mi camino como un desarrollador.</p>
+                        <a href="/philosophy" class="btn btn-primary d-block"><i class="fa fa-beer"></i> Filosofía (blog)</a>
                     </div>
                     <div class="col-lg-5 background order-lg-2 order-1 mb-5">
                         <figure><img src="/assets/img/main-es.jpg" class="img-fluid rounded mx-auto d-block img-hover" /></figure>
@@ -147,7 +148,6 @@
                     <div class="card-body">
                         <p class="text-justify">Actualmente trabajo para una empresa grande de tecnología donde hago mi trabajo a lo mejor de mis habilidades, aprendiendo de mis colegas y con la motivación para proveer valor y vivir los valores de la compañia.</p>
                         <ul>
-                            <li></li>
                             <li>Responsabilidad</li>
                             <li>Colaboración</li>
                             <li>Transparencia</li>

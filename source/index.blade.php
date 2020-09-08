@@ -19,6 +19,7 @@
                         <p>Hello my name is Felipe Alvarado Solano I believe in magic, I care about how my actions affect others and I want to have a meaningful existence.</p>
                         <p>I love software development and consider it one of the many ways I can contribute in this world creating something useful and well done. I love information technologies and how they interact.</p>
                         <p>Currently living in my hometown in Costa Rica. This website is a portfolio and a documentation of my journey as a developer.</p>
+                        <a href="/philosophy" class="btn btn-primary d-block"><i class="fa fa-beer"></i> Philosophy (blog)</a>
                     </div>
                     <div class="col-lg-5 background order-lg-2 order-1 mb-5">
                         <figure><img src="/assets/img/main.jpg" class="img-fluid rounded mx-auto d-block img-hover" /></figure>
