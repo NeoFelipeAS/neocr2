@@ -1,6 +1,6 @@
 ---
-title: '02 - Favicons'
-date: 2020-05-12
+title: 02 - Bienvenido a mi blog
+date: 2020-05-12T00:00:00.000Z
 image: https://res.cloudinary.com/artisanstatic/icons.jpg
 comments: false
 ---
